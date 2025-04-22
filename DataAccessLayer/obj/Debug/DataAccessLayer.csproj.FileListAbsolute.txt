@@ -1,0 +1,12 @@
+D:\ManageLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\ManageLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\ManageLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\ManageLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ManageLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\ManageLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Project_HQTCSDL\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Project_HQTCSDL\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Project_HQTCSDL\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Project_HQTCSDL\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Project_HQTCSDL\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Project_HQTCSDL\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
