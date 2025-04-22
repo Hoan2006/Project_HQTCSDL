@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{03534AC2-AEB9-497B-A561-B2D56093C28D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "ManageLibrary\DataAccessLayer\DataAccessLayer.csproj", "{03534AC2-AEB9-497B-A561-B2D56093C28D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessAccessLayer", "BusinessAccessLayer\BusinessAccessLayer.csproj", "{DAC2A796-36C2-47ED-A181-05BD042246A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessAccessLayer", "ManageLibrary\BusinessAccessLayer\BusinessAccessLayer.csproj", "{DAC2A796-36C2-47ED-A181-05BD042246A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUIAPP", "GUIAPP\GUIAPP.csproj", "{B0F5A2F7-626E-4E9E-BF21-9B279A92CB5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUIAPP", "ManageLibrary\GUIAPP\GUIAPP.csproj", "{B0F5A2F7-626E-4E9E-BF21-9B279A92CB5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
