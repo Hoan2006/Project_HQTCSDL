@@ -213,14 +213,14 @@
             this.pnlMain.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnlMain.Location = new System.Drawing.Point(209, 1);
             this.pnlMain.Name = "pnlMain";
-            this.pnlMain.Size = new System.Drawing.Size(967, 579);
+            this.pnlMain.Size = new System.Drawing.Size(966, 579);
             this.pnlMain.TabIndex = 2;
             // 
             // fHome
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1181, 579);
+            this.ClientSize = new System.Drawing.Size(1175, 579);
             this.Controls.Add(this.flowLayoutPanel1);
             this.Controls.Add(this.pnlMain);
             this.Name = "fHome";
