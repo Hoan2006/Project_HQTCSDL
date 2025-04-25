@@ -46,6 +46,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="fAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAccount.Designer.cs">
+      <DependentUpon>fAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fBook.Designer.cs">
+      <DependentUpon>fBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fCoupon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCoupon.Designer.cs">
+      <DependentUpon>fCoupon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fCouponDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCouponDetail.Designer.cs">
+      <DependentUpon>fCouponDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fHome.Designer.cs">
+      <DependentUpon>fHome.cs</DependentUpon>
+    </Compile>
     <Compile Include="fReaderTraSach.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,13 +88,27 @@
     <Compile Include="fStatistic.Designer.cs">
       <DependentUpon>fStatistic.cs</DependentUpon>
     </Compile>
+  
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="fReaderTraSach.resx">
-      <DependentUpon>fReaderTraSach.cs</DependentUpon>
+    <EmbeddedResource Include="fAccount.resx">
+      <DependentUpon>fAccount.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="fBook.resx">
+      <DependentUpon>fBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCoupon.resx">
+      <DependentUpon>fCoupon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fHome.resx">
+      <DependentUpon>fHome.cs</DependentUpon>
+    </EmbeddedResource>
+    
     <EmbeddedResource Include="fStatistic.resx">
       <DependentUpon>fStatistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fReaderTraSach.resx">
+      <DependentUpon>fReaderTraSach.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -74,7 +118,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -98,9 +141,6 @@
       <Project>{03534ac2-aeb9-497b-a561-b2d56093c28d}</Project>
       <Name>DataAccessLayer</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ChatGPT Image Apr 23, 2025, 11_40_11 AM.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
