@@ -43,3 +43,4 @@ D:\Project_HQTCSDL\ManageLibrary\GUIAPP\bin\Debug\DataAccessLayer.pdb
 D:\Project_HQTCSDL\ManageLibrary\GUIAPP\obj\Debug\GUIAPP.csproj.Up2Date
 D:\Project_HQTCSDL\ManageLibrary\GUIAPP\obj\Debug\GUIAPP.exe
 D:\Project_HQTCSDL\ManageLibrary\GUIAPP\obj\Debug\GUIAPP.pdb
+D:\Project_HQTCSDL\ManageLibrary\GUIAPP\obj\Debug\GUIAPP.GlobalLogin.resources

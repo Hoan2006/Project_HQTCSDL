@@ -16,7 +16,7 @@ namespace GUIAPP
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fReaderTraSach());
+            Application.Run(new GlobalLogin());
         }
     }
 }
