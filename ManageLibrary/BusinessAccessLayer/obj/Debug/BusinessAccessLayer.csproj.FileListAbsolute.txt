@@ -25,3 +25,12 @@ D:\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\obj\Debug\BusinessAccessLay
 D:\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
 D:\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
 D:\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\tuite\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\tuite\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\tuite\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\tuite\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\tuite\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\tuite\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\tuite\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+C:\Users\tuite\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\tuite\Project_HQTCSDL\ManageLibrary\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

@@ -70,6 +70,12 @@
     <Compile Include="fCouponDetail.Designer.cs">
       <DependentUpon>fCouponDetail.cs</DependentUpon>
     </Compile>
+    <Compile Include="fGlobalLogincs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fGlobalLogincs.Designer.cs">
+      <DependentUpon>fGlobalLogincs.cs</DependentUpon>
+    </Compile>
     <Compile Include="fHome.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,7 +94,7 @@
     <Compile Include="fStatistic.Designer.cs">
       <DependentUpon>fStatistic.cs</DependentUpon>
     </Compile>
-  
+    <Compile Include="GlobalVariable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="fAccount.resx">
@@ -100,10 +106,12 @@
     <EmbeddedResource Include="fCoupon.resx">
       <DependentUpon>fCoupon.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="fGlobalLogincs.resx">
+      <DependentUpon>fGlobalLogincs.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="fHome.resx">
       <DependentUpon>fHome.cs</DependentUpon>
     </EmbeddedResource>
-    
     <EmbeddedResource Include="fStatistic.resx">
       <DependentUpon>fStatistic.cs</DependentUpon>
     </EmbeddedResource>
